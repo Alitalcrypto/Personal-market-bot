@@ -1,0 +1,7 @@
+.env
+.deps
+.venv
+*.sqlite3
+state/
+__pycache__/
+*.zip
