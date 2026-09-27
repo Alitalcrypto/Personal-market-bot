@@ -1,6 +1,0 @@
-.env
-.deps/
-.venv/
-*.sqlite3
-state/
-__pycache__/
